@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\TCP_Chat_Server\TCP_Chat_Server\bin\Debug\TCP_Chat_Server.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TCP_Chat_Server\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TCP_Chat_Server\TCP_Chat_Server\bin\Debug\TCP_Chat_Server.exe
+c:\users\user\documents\visual studio 2015\Projects\TCP_Chat_Server\TCP_Chat_Server\bin\Debug\TCP_Chat_Server.pdb
+c:\users\user\documents\visual studio 2015\Projects\TCP_Chat_Server\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.exe
+c:\users\user\documents\visual studio 2015\Projects\TCP_Chat_Server\TCP_Chat_Server\obj\Debug\TCP_Chat_Server.pdb
